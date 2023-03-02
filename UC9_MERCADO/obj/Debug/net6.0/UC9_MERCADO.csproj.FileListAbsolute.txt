@@ -1,0 +1,15 @@
+C:\Users\marina.qrpaula\source\repos\UC9_MERCADO\UC9_MERCADO\bin\Debug\net6.0\UC9_MERCADO.exe
+C:\Users\marina.qrpaula\source\repos\UC9_MERCADO\UC9_MERCADO\bin\Debug\net6.0\UC9_MERCADO.deps.json
+C:\Users\marina.qrpaula\source\repos\UC9_MERCADO\UC9_MERCADO\bin\Debug\net6.0\UC9_MERCADO.runtimeconfig.json
+C:\Users\marina.qrpaula\source\repos\UC9_MERCADO\UC9_MERCADO\bin\Debug\net6.0\UC9_MERCADO.dll
+C:\Users\marina.qrpaula\source\repos\UC9_MERCADO\UC9_MERCADO\bin\Debug\net6.0\ref\UC9_MERCADO.dll
+C:\Users\marina.qrpaula\source\repos\UC9_MERCADO\UC9_MERCADO\bin\Debug\net6.0\UC9_MERCADO.pdb
+C:\Users\marina.qrpaula\source\repos\UC9_MERCADO\UC9_MERCADO\obj\Debug\net6.0\UC9_MERCADO.csproj.AssemblyReference.cache
+C:\Users\marina.qrpaula\source\repos\UC9_MERCADO\UC9_MERCADO\obj\Debug\net6.0\UC9_MERCADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marina.qrpaula\source\repos\UC9_MERCADO\UC9_MERCADO\obj\Debug\net6.0\UC9_MERCADO.AssemblyInfoInputs.cache
+C:\Users\marina.qrpaula\source\repos\UC9_MERCADO\UC9_MERCADO\obj\Debug\net6.0\UC9_MERCADO.AssemblyInfo.cs
+C:\Users\marina.qrpaula\source\repos\UC9_MERCADO\UC9_MERCADO\obj\Debug\net6.0\UC9_MERCADO.csproj.CoreCompileInputs.cache
+C:\Users\marina.qrpaula\source\repos\UC9_MERCADO\UC9_MERCADO\obj\Debug\net6.0\UC9_MERCADO.dll
+C:\Users\marina.qrpaula\source\repos\UC9_MERCADO\UC9_MERCADO\obj\Debug\net6.0\ref\UC9_MERCADO.dll
+C:\Users\marina.qrpaula\source\repos\UC9_MERCADO\UC9_MERCADO\obj\Debug\net6.0\UC9_MERCADO.pdb
+C:\Users\marina.qrpaula\source\repos\UC9_MERCADO\UC9_MERCADO\obj\Debug\net6.0\UC9_MERCADO.genruntimeconfig.cache
